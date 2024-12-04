@@ -1,2 +1,2 @@
 # A1-correcao
-O mesmo repositório da prova, porém corrigindo
+O mesmo repositório da prova, porém corrigido
